@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://github.com/kedeegan/kedeegan.github.io/blob/main/IAT1.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://github.com/kedeegan.github.io/kedeegan.github.io/blob/main/IAT1.js'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 	return iatExtension({
